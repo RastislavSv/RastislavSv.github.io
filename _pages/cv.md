@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum vitae
+title: curriculum vitae
 description:
 nav: true
 ---
@@ -56,9 +56,9 @@ nav: true
 ### Computer Skills ###
 
 |**Zemax OpticStudio**        | advanced
-|                        |
-|**Creo**                     |advanced
-|                        |
+
+|**Creo Parametric**          |advanced
+
 |**Ansys Speos**              |advanced
 
 |**Catia V5**                 |advanced
