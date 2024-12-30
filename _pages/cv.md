@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: curriculum vitae
+title: Curriculum vitae
 description:
 nav: true
 ---
@@ -18,7 +18,6 @@ nav: true
 ### Education ###
 
 | **University**         | 
-|                        |
 
 |                        |
 | September 2020         | Diploma (Mgr.) in **Digital and instrumental optics**, Palacký University in Olomouc, Czech republic
@@ -57,9 +56,9 @@ nav: true
 ### Computer Skills ###
 
 |**Zemax OpticStudio**        | advanced
-
+|                        |
 |**Creo**                     |advanced
-
+|                        |
 |**Ansys Speos**              |advanced
 
 |**Catia V5**                 |advanced
@@ -91,13 +90,13 @@ comment
 
 |**Slovak**    |mother language
 
-|**Czech**    |expert
+|**Czech**     |expert
 
 |**English**   |working profficiency
 
-|**German**   |basic communication, learning
+|**German**    |basic communication, learning
 
-|**Russian**    |passive, basics, learning
+|**Russian**   |passive, basics, learning
 
 |   |
 
